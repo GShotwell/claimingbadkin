@@ -1,7 +1,7 @@
 # Introduction {#intro}
 
 
-## A brief history of Upworthy
+## A brief history of #settlercollector
 
 We came, we click tested, we pivoted. 
 
